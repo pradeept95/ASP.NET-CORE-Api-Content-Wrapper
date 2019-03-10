@@ -16,11 +16,11 @@ Below are the steps to use the Api.Helper.ContentWrapper.Core middleware into yo
 
 1) Declare the following namespace within Startup.cs
 
-using Api.Helper.ContentWrapper.Core.Extensions;
+       using Api.Helper.ContentWrapper.Core.Extensions;
 
 2) Register the middleware below within the Configure() method of Startup.cs
 
-  app.UseAPIResponseWrapperMiddleware();
+        app.UseAPIResponseWrapperMiddleware();
 
 Note: Make sure to register it "before" the MVC middleware
 
@@ -44,7 +44,7 @@ current user and much more.
 
 # Don't Forget to register your modelstate error filter helper
 
-   services.AddMvc(
+     services.AddMvc(
                   options =>
                   {
                       options.Filters.Add(typeof(ModelStateFeatureFilter));  //this will allow you to 
@@ -60,12 +60,12 @@ You can remove the APIController attribute to disable the automatic model valida
 
 The better approach to disable the default behavior by setting SuppressModelStateInvalidFilter option to true. You can set this option to true in the ConfigureServices method. Like,
 
-public void ConfigureServices(IServiceCollection services)
-{
-    services.Configure<ApiBehaviorOptions>(options =>
-    {
-        options.SuppressModelStateInvalidFilter = true;
-    });
-}
+       public void ConfigureServices(IServiceCollection services)
+	{
+	    services.Configure<ApiBehaviorOptions>(options =>
+	    {
+		options.SuppressModelStateInvalidFilter = true;
+	    });
+	}
 
 This will disable the automatic model state validation and now you can return the custom error from the controller action methods.
