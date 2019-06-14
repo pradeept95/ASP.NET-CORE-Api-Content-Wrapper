@@ -1,9 +1,9 @@
 ﻿A REST API global exception handler and response wrapper for ASP.NET Core APIs.
 
 
-# Api.Helper.ContentWrapper.Core
+# Api.ResultWrapper.AspNetCore
 
-The Api.Helper.ContentWrapper.Core is a global exception handler and response wrapper for ASP.NET Core APIs. It uses a middleware to 
+The Api.ResultWrapper.AspNetCore is a global exception handler and response wrapper for ASP.NET Core APIs. It uses a middleware to 
 capture exceptions and to capture HTTP response to build a consistent response object for both successful and error requests.
 
 ## Prerequisite
@@ -16,7 +16,7 @@ Below are the steps to use the Api.Helper.ContentWrapper.Core middleware into yo
 
 1) Declare the following namespace within Startup.cs
 
-       using Api.Helper.ContentWrapper.Core.Extensions;
+       using Api.ResultWrapper.AspNetCore.Extensions;
 
 2) Register the middleware below within the Configure() method of Startup.cs
 
