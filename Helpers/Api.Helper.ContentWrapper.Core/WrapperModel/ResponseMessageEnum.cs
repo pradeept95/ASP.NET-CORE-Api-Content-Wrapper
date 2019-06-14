@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Api.Helper.ContentWrapper.Core.WrapperModel
+namespace Api.ResultWrapper.AspNetCore.WrapperModel
 {
     public enum ResponseMessageEnum
     {

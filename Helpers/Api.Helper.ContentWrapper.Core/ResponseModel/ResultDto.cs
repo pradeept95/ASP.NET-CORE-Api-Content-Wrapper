@@ -1,4 +1,4 @@
-﻿namespace Api.Helper.ContentWrapper.Core.ResponseModel
+﻿namespace Api.ResultWrapper.AspNetCore.ResponseModel
 {
     public class ResultDto<T>  
     {

@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentWrapperExample.Core", "ContentWrapperExample.Core\ContentWrapperExample.Core.csproj", "{ACB7BAD1-D9F0-446C-8FEE-06EE3A5F5D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContentWrapperExample.Core", "ContentWrapperExample.Core\ContentWrapperExample.Core.csproj", "{ACB7BAD1-D9F0-446C-8FEE-06EE3A5F5D92}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helpers", "Helpers", "{FFF92C5F-77A7-453B-9C00-2669CA2479CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Helper.ContentWrapper.Core", "..\Helpers\Api.Helper.ContentWrapper.Core\Api.Helper.ContentWrapper.Core.csproj", "{50BF2F53-E249-4F3D-A281-591C48082076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.ResultWrapper.AspNetCore", "..\Helpers\Api.Helper.ContentWrapper.Core\Api.ResultWrapper.AspNetCore.csproj", "{50BF2F53-E249-4F3D-A281-591C48082076}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

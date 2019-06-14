@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace Api.Helper.ContentWrapper.Core.WrapperModel
+namespace Api.ResultWrapper.AspNetCore.WrapperModel
 {
     public class ValidationError
     {

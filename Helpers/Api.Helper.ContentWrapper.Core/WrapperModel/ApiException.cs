@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Api.Helper.ContentWrapper.Core.WrapperModel
+namespace Api.ResultWrapper.AspNetCore.WrapperModel
 {
     public class ApiException : System.Exception
     {

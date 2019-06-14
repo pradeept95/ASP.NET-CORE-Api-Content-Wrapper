@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageTags>Content Wrapper, WebApi, Core</PackageTags>
+    <PackageReleaseNotes>A REST API global exception handler and response wrapper for ASP.NET Core APIs.</PackageReleaseNotes>
+    <PackageProjectUrl>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper/blob/master/LISCENSE</PackageLicenseUrl>
+    <Copyright>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper/blob/master/LISCENSE</Copyright>
+    <Description>The Api.ResultWrapper.AspNetCore is a global exception handler and response wrapper for ASP.NET Core APIs. It uses a middleware to capture exceptions and to capture HTTP response to build a consistent response object for both successful and error requests.</Description>
+    <NeutralLanguage></NeutralLanguage>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.1.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Authorization">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.authorization\2.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Authorization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Core">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.mvc.core\2.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Formatters.Json">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\microsoft.aspnetcore.mvc.formatters.json\2.1.1\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.Formatters.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BaseApiController\" />
+  </ItemGroup>
+
+</Project>

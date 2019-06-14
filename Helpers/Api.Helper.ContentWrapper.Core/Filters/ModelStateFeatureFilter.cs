@@ -1,10 +1,10 @@
-﻿using Api.Helper.ContentWrapper.Core.Extensions;
-using Api.Helper.ContentWrapper.Core.WrapperModel;
+﻿using Api.ResultWrapper.AspNetCore.Extensions;
+using Api.ResultWrapper.AspNetCore.WrapperModel;
 using Microsoft.AspNetCore.Mvc.Filters;
 using System;
 using System.Threading.Tasks;
 
-namespace Api.Helper.ContentWrapper.Core.Filters
+namespace Api.ResultWrapper.AspNetCore.Filters
 {
     public class ModelStateFeatureFilter : Attribute, IAsyncActionFilter
     { 

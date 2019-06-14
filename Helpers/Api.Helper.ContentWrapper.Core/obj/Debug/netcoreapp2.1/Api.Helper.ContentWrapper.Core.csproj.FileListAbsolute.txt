@@ -1,6 +1,5 @@
 E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.deps.json
 E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.dll
-E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.csprojAssemblyReference.cache
 E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.csproj.CoreCompileInputs.cache
 E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.AssemblyInfoInputs.cache
 E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.AssemblyInfo.cs
@@ -28,3 +27,5 @@ E:\KNN Null Printer\Core\KNN.NULLPrinter\Helpers\Api.Helper.ContentWrapper.Core\
 E:\KNN Null Printer\Core\KNN.NULLPrinter\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.csproj.CopyComplete
 E:\KNN Null Printer\Core\KNN.NULLPrinter\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.dll
 E:\KNN Null Printer\Core\KNN.NULLPrinter\Helpers\Api.Helper.ContentWrapper.Core\obj\Debug\netcoreapp2.1\Api.Helper.ContentWrapper.Core.pdb
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.xml

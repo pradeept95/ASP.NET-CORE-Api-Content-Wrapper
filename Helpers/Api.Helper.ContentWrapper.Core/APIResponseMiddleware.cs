@@ -1,6 +1,6 @@
-﻿using Api.Helper.ContentWrapper.Core.Extensions;
-using Api.Helper.ContentWrapper.Core.Filters;
-using Api.Helper.ContentWrapper.Core.WrapperModel;
+﻿using Api.ResultWrapper.AspNetCore.Extensions;
+using Api.ResultWrapper.AspNetCore.Filters;
+using Api.ResultWrapper.AspNetCore.WrapperModel;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Newtonsoft.Json;
@@ -9,7 +9,7 @@ using System.IO;
 using System.Net;
 using System.Threading.Tasks; 
 
-namespace Api.Helper.ContentWrapper.Core
+namespace Api.ResultWrapper.AspNetCore
 {
     public class APIResponseMiddleware
     {

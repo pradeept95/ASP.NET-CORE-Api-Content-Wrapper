@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Api.ResultWrapper.AspNetCore</id>
+    <version>1.0.0</version>
+    <authors>Api.ResultWrapper.AspNetCore</authors>
+    <owners>Api.ResultWrapper.AspNetCore</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper/blob/master/LISCENSE</licenseUrl>
+    <projectUrl>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper</projectUrl>
+    <description>The Api.ResultWrapper.AspNetCore is a global exception handler and response wrapper for ASP.NET Core APIs. It uses a middleware to capture exceptions and to capture HTTP response to build a consistent response object for both successful and error requests.</description>
+    <releaseNotes>A REST API global exception handler and response wrapper for ASP.NET Core APIs.</releaseNotes>
+    <copyright>https://github.com/pradeep9860/ASP.NET-CORE-Api-Content-Wrapper/blob/master/LISCENSE</copyright>
+    <tags>Content Wrapper, WebApi, Core</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="Microsoft.AspNetCore.Http" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Abstractions" version="2.1.3" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.dll" target="lib\netcoreapp2.1\Api.ResultWrapper.AspNetCore.dll" />
+  </files>
+</package>

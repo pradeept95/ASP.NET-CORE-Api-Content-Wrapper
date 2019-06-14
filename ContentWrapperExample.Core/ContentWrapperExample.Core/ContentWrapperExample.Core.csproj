@@ -11,11 +11,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Helpers\Api.Helper.ContentWrapper.Core\Api.Helper.ContentWrapper.Core.csproj" />
+    <Folder Include="Attributes\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Attributes\" />
+    <ProjectReference Include="..\..\Helpers\Api.Helper.ContentWrapper.Core\Api.ResultWrapper.AspNetCore.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using System.Buffers;
 
-namespace Api.Helper.ContentWrapper.Core.JsonFormatter
+namespace Api.ResultWrapper.AspNetCore.JsonFormatter
 {
     public class PascalCaseJsonProfileFormatter : JsonOutputFormatter
     { 

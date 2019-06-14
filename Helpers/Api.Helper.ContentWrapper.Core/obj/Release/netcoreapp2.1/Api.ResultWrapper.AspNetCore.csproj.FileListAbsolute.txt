@@ -1,0 +1,15 @@
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.deps.json
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.pdb
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Authorization.xml
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Core.xml
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\bin\Release\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.csproj.CoreCompileInputs.cache
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.AssemblyInfoInputs.cache
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.AssemblyInfo.cs
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.csproj.CopyComplete
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.dll
+E:\MyProj\Content Wrapper Helper\Core\Helpers\Api.Helper.ContentWrapper.Core\obj\Release\netcoreapp2.1\Api.ResultWrapper.AspNetCore.pdb

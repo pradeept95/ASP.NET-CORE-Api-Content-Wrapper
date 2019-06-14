@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Globalization;
 
-namespace Api.Helper.ContentWrapper.Core.Extensions
+namespace Api.ResultWrapper.AspNetCore.Extensions
 {
     public static class StringEnumExtension
     {

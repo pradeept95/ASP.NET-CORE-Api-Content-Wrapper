@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
-using Api.Helper.ContentWrapper.Core.BaseApiController;
-using Api.Helper.ContentWrapper.Core.Extensions;
-using Api.Helper.ContentWrapper.Core.ResponseModel;
-using Api.Helper.ContentWrapper.Core.WrapperModel;
+using Api.ResultWrapper.AspNetCore.BaseApiController;
+using Api.ResultWrapper.AspNetCore.Extensions;
+using Api.ResultWrapper.AspNetCore.ResponseModel;
+using Api.ResultWrapper.AspNetCore.WrapperModel;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -34,8 +34,7 @@ namespace ContentWrapperExample.Core.Controllers
         [Route("excExample")]
         [HttpGet]
         public List<string> GetExcResult()
-        {
-            throw new ApiException("Your Message", 401, ModelStateExtension.AllErrors(ModelState)); 
+        { 
             var result = new List<string>();
             result.Add("date 1");
             result.Add("date 2");

@@ -1,10 +1,10 @@
-﻿using Api.Helper.ContentWrapper.Core.WrapperModel;
+﻿using Api.ResultWrapper.AspNetCore.WrapperModel;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Newtonsoft.Json.Linq;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Api.Helper.ContentWrapper.Core.Extensions
+namespace Api.ResultWrapper.AspNetCore.Extensions
 {
     public static class ModelStateExtension
     {

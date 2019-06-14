@@ -444,7 +444,7 @@
       ]
     },
     "Microsoft.AspNetCore.Routing.Abstractions/2.1.1": {
-      "sha512": "9saJjHhST3JmFKuZ1mPU9FJcpgUyPNoJxRMSV2nkSjiEekQN4jxswtBBeIRVDonjq50KKqSWbcyyQtvV4tgKzw==",
+      "sha512": "+Yxsy/ZcCthcziktuhfC6WpQ/cZzgD/IsQ96xefNKrCzIm9jXjfNK3ONsoScvyFFihNohp7zAVPiic5J6CvUDw==",
       "type": "package",
       "path": "microsoft.aspnetcore.routing.abstractions/2.1.1",
       "files": [
@@ -837,7 +837,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
+      "sha512": "GmkKfoyerqmsHMn7OZj0AKpcBabD+GaafqphvX2Mw406IwiJRy1pKcKqdCfKJfYmkRyJ6+e+RaUylgdJoDa1jQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
@@ -1133,23 +1133,26 @@
   },
   "packageFolders": {
     "C:\\Users\\pradeeppc\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KNN Null Printer\\Core\\KNN.NULLPrinter\\Helpers\\Api.Helper.ContentWrapper.Core\\Api.Helper.ContentWrapper.Core.csproj",
-      "projectName": "Api.Helper.ContentWrapper.Core",
-      "projectPath": "E:\\KNN Null Printer\\Core\\KNN.NULLPrinter\\Helpers\\Api.Helper.ContentWrapper.Core\\Api.Helper.ContentWrapper.Core.csproj",
+      "projectUniqueName": "E:\\MyProj\\Content Wrapper Helper\\Core\\Helpers\\Api.Helper.ContentWrapper.Core\\Api.ResultWrapper.AspNetCore.csproj",
+      "projectName": "Api.ResultWrapper.AspNetCore",
+      "projectPath": "E:\\MyProj\\Content Wrapper Helper\\Core\\Helpers\\Api.Helper.ContentWrapper.Core\\Api.ResultWrapper.AspNetCore.csproj",
       "packagesPath": "C:\\Users\\pradeeppc\\.nuget\\packages\\",
-      "outputPath": "E:\\KNN Null Printer\\Core\\KNN.NULLPrinter\\Helpers\\Api.Helper.ContentWrapper.Core\\obj\\",
+      "outputPath": "E:\\MyProj\\Content Wrapper Helper\\Core\\Helpers\\Api.Helper.ContentWrapper.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\pradeeppc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

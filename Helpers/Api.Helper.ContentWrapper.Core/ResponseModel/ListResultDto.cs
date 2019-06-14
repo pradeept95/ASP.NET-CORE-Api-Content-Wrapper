@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Api.Helper.ContentWrapper.Core.ResponseModel
+namespace Api.ResultWrapper.AspNetCore.ResponseModel
 {
     public class ListResultDto<T> 
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Api.Helper.ContentWrapper.Core.WrapperModel
+namespace Api.ResultWrapper.AspNetCore.WrapperModel
 {
     public class ApiError
     {

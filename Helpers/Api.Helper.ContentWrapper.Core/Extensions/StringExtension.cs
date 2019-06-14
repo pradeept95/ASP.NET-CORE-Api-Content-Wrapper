@@ -2,7 +2,7 @@
 using Newtonsoft.Json.Linq;
 using System;
 
-namespace Api.Helper.ContentWrapper.Core.Extensions
+namespace Api.ResultWrapper.AspNetCore.Extensions
 {
     public static class StringExtension
     { 
@@ -17,11 +17,11 @@ namespace Api.Helper.ContentWrapper.Core.Extensions
                     var obj = JToken.Parse(text);
                     return true;
                 }
-                catch (JsonReaderException jex)
+                catch (JsonReaderException)
                 {
                     return false;
                 }
-                catch (Exception ex)
+                catch (Exception)
                 {
                     return false;
                 }

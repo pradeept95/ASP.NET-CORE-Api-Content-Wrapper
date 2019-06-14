@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace Api.Helper.ContentWrapper.Core.Filters
+namespace Api.ResultWrapper.AspNetCore.Filters
 {
     public class ModelStateFeature
     {

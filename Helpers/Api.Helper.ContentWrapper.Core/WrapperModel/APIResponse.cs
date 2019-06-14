@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace Api.Helper.ContentWrapper.Core.WrapperModel
+namespace Api.ResultWrapper.AspNetCore.WrapperModel
 {
     [DataContract]
     public class APIResponse
